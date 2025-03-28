@@ -1,0 +1,5 @@
+# Regla general para ignorar todas las carpetas .vs en cualquier parte del proyecto
+**/.vs/
+
+# Regla específica para ignorar la carpeta .vs en appEcommerce/AppTareaApi
+appEcommerce/AppTareaApi/.vs/
